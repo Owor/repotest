@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  app1:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-10-08T05:28:30.147992713+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 7da919d19e263a4d8118f83bff9fcd41ed96d70c57b5597b29013a4ec5132038
+    name: app1
+    type: application
+    urls:
+    - https://mattiaperi.github.io/helm-chart/.deploy/app1-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-10-08T05:28:30.146872711+08:00"
